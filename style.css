@@ -29,6 +29,10 @@ hr{
     padding: 50px;
 }
 
+.Container a{
+    text-decoration: none;
+}
+
 img{
     height: 100px;
     width: 100px;
@@ -56,6 +60,7 @@ h3{
 
 .Management:hover{
     background-color: #b3b3ff;
+    box-shadow: 5px 10px 18px #888888;
 }
 
 .Media{
@@ -66,6 +71,7 @@ h3{
 
 .Media:hover{
     background-color: #b3b3ff;
+    box-shadow: 5px 10px 18px #888888;
 }
 
 .English{
@@ -76,6 +82,7 @@ h3{
 
 .English:hover{
     background-color: #b3b3ff;
+    box-shadow: 5px 10px 18px #888888;
 }
 
 .Teacher{
@@ -86,4 +93,32 @@ h3{
 
 .Teacher:hover{
     background-color: #b3b3ff;
+    box-shadow: 5px 10px 18px #888888;
 }
+
+table,td,th{
+    border: 1px solid black;
+    border-collapse: collapse;
+    padding: 6px;
+    margin: 5px;
+    font-size: 18px;
+}
+
+th{
+    padding: 10px;
+    background-color: #f2f2f2;
+}
+
+table{
+    width: 100%;
+}
+
+td:hover{
+    background-color: #737373 ;
+    text-shadow:  0 0 3px #6699ff;
+    box-shadow: 5px 10px 18px #888888;
+}
+
+/* tr:nth-child(even) {
+    background-color: #f2f2f2;
+  } */
