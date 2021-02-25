@@ -1,0 +1,89 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.Links{
+    padding: 30px;
+    text-align: center;
+}
+
+.a-Links{
+    margin: 80px;
+    text-decoration: none;
+    color: #001b4d;
+}
+
+.a-Links:hover{
+    color: #1a6aff;
+    font-size: 18px;
+    text-decoration: underline;
+}
+
+hr{
+    margin: 0 20%;
+}
+
+.Container{
+    padding: 50px;
+}
+
+img{
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    margin-top: 20px; 
+}
+
+h3{
+    margin-top: 70px;
+}
+
+.Box{
+    background-color: #ccccff;
+    border-radius: 8px;
+    margin: 50px;
+    text-align: center;
+    color: black;
+}
+
+.Management{
+    height: 300px;
+    width: 200px;
+    display: inline-block;
+}
+
+.Management:hover{
+    background-color: #b3b3ff;
+}
+
+.Media{
+    height: 300px;
+    width: 200px;
+    display: inline-block;
+}
+
+.Media:hover{
+    background-color: #b3b3ff;
+}
+
+.English{
+    height: 300px;
+    width: 200px;
+    display: inline-block;
+}
+
+.English:hover{
+    background-color: #b3b3ff;
+}
+
+.Teacher{
+    height: 300px;
+    width: 200px;
+    display: inline-block;
+}
+
+.Teacher:hover{
+    background-color: #b3b3ff;
+}
