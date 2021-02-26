@@ -1,0 +1,78 @@
+.links{
+    padding: 30px;
+    text-align: center;
+    
+    
+}
+.a-links{
+  margin: 0px 80px 0px 80px;
+  display: inline-block;
+  vertical-align: middle;
+  color: black;
+  text-decoration: none;
+  font-family: sans-serif;
+  font-weight: bolder;
+  text-align: center;
+}
+.a-links:hover{
+  color: #eb4141;
+  
+  
+}
+
+.hr{
+  margin-top: 0 50%;
+}
+
+.Box{
+    background-color: #ce4c4c;
+    border-top-right-radius: 60px;
+    border-bottom-left-radius: 60px;
+    margin: 50%px;
+    text-align: center;
+    color: rgb(253, 228, 0);
+
+}
+img{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    padding: 25px;
+}
+.goal1{
+    height: 250px;
+    width: 150px;
+    display: inline-block;
+    margin: 20px;
+    
+    
+}
+.goal1:hover{
+    background-color: #eb3131;
+    box-shadow: 5px 10px 18px #888888;
+}
+p{
+    border: solid;
+    border-radius: 10px;
+    background-color: rgb(238, 212, 212);
+    padding: 10px;
+    text-align: center;
+    line-height: ]10px;
+    margin-left: 150px;
+    margin-right:150px;
+
+}
+html{
+    background-attachment: fixed;
+    background-image: url(https://dbtechnologies.com.au/wp-content/uploads/2018/09/mav7qon9fyi.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100%;
+    font-family: sans-serif;
+}
+
+.a-text{
+    color: rgb(253, 228, 0);
+    text-decoration: none;
+
+}
